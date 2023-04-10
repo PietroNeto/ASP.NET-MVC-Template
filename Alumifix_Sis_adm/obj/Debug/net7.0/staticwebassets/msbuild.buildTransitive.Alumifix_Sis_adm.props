@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Alumifix_Sis_adm.props" />
+</Project>

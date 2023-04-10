@@ -1,0 +1,9 @@
+﻿@{
+    var routeUrl = ViewContext!.RouteData!.Values["action"]!.ToString();
+    var pages = new List<string> { "Login" };
+    if (pages.Any(routeUrl!.Contains)) {
+        Layout = "_Layout_full";
+    } else {
+        Layout = "_Layout";
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zD5hUO/+grBpKi6OpJ9Ad0oXzmxlKM81t1wRkhOMMZJf32wW62VESouM4y6NTKQs8Aas8otWqCDEd16OAvTNJA==",
+  "success": true,
+  "projectFilePath": "/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/Alumifix_Sis_adm/Alumifix_Sis_adm.csproj",
+  "expectedPackageFiles": [
+    "/home/kali/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/kali/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/kali/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
