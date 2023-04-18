@@ -8,49 +8,49 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Alumifix_Sis_adm
 build_property.RootNamespace = Alumifix_Sis_adm
-build_property.ProjectDir = /media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/Alumifix_Sis_adm/
+build_property.ProjectDir = /media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/ASP.NET-MVC-Template/Alumifix_Sis_adm/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/Alumifix_Sis_adm
+build_property.MSBuildProjectDirectory = /media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/ASP.NET-MVC-Template/Alumifix_Sis_adm
 build_property._RazorSourceGeneratorDebug = 
 
-[/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/Alumifix_Sis_adm/Views/Home/Index.cshtml]
+[/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/ASP.NET-MVC-Template/Alumifix_Sis_adm/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/Alumifix_Sis_adm/Views/Home/Login.cshtml]
+[/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/ASP.NET-MVC-Template/Alumifix_Sis_adm/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Mb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/Alumifix_Sis_adm/Views/Home/Privacy.cshtml]
+[/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/ASP.NET-MVC-Template/Alumifix_Sis_adm/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/Alumifix_Sis_adm/Views/Shared/Error.cshtml]
+[/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/ASP.NET-MVC-Template/Alumifix_Sis_adm/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/Alumifix_Sis_adm/Views/Shared/_LoginPartial.cshtml]
+[/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/ASP.NET-MVC-Template/Alumifix_Sis_adm/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/Alumifix_Sis_adm/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/ASP.NET-MVC-Template/Alumifix_Sis_adm/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/Alumifix_Sis_adm/Views/_ViewImports.cshtml]
+[/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/ASP.NET-MVC-Template/Alumifix_Sis_adm/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/Alumifix_Sis_adm/Views/_ViewStart.cshtml]
+[/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/ASP.NET-MVC-Template/Alumifix_Sis_adm/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/Alumifix_Sis_adm/Views/Shared/_Layout.cshtml]
+[/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/ASP.NET-MVC-Template/Alumifix_Sis_adm/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-rgv1k1bujr
 
-[/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/Alumifix_Sis_adm/Views/Shared/_Layout_full.cshtml]
+[/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/ASP.NET-MVC-Template/Alumifix_Sis_adm/Views/Shared/_Layout_full.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXRfZnVsbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-0429vjsftr

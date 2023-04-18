@@ -10,7 +10,6 @@ using System.Security.Claims;
 using System;
 using System.Threading.Tasks;
 using System.Diagnostics;
-using Microsoft.Extensions.Logging;
 using static Alumifix_Sis_adm.Models.LoginModel;
 using Microsoft.AspNetCore.Authorization;
 

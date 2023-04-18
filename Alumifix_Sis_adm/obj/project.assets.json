@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/Alumifix_Sis_adm/Alumifix_Sis_adm.csproj",
+      "projectUniqueName": "/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/ASP.NET-MVC-Template/Alumifix_Sis_adm/Alumifix_Sis_adm.csproj",
       "projectName": "Alumifix_Sis_adm",
-      "projectPath": "/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/Alumifix_Sis_adm/Alumifix_Sis_adm.csproj",
+      "projectPath": "/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/ASP.NET-MVC-Template/Alumifix_Sis_adm/Alumifix_Sis_adm.csproj",
       "packagesPath": "/home/kali/.nuget/packages/",
-      "outputPath": "/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/Alumifix_Sis_adm/obj/",
+      "outputPath": "/media/sf_Alumifix/Trabalho/DESENVOLVIMENTO/PAINEL ADMINISTRAÇÃO/ASP.NET-MVC-Template/Alumifix_Sis_adm/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/kali/.nuget/NuGet/NuGet.Config"
