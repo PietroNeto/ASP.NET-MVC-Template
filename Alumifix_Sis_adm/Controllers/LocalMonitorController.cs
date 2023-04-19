@@ -1,13 +1,8 @@
-using System;
-using System.Net;
+#nullable disable
 using System.Net.NetworkInformation;
-using System.Data;
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using LocalMonitor.Models;
-using Microsoft.Extensions.Logging;
-using System.Text.Json;
-using System.Collections.Generic;
 
 namespace LocalMonitor.Controllers;
 
